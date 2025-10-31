@@ -164,7 +164,7 @@ article {
 }
 
 /*  */
-.img-container{display: flex;align-items: center;justify-content: center;
+.img-container{display: flex;align-items: center;flex-wrap: wrap;justify-content: center;
 align-content: center;padding-bottom: 150px;}
 .img1{width: 400px;height: 400px;padding: 15px;}
 .img2{width: 600px;height: 400px;padding: 15px;}
