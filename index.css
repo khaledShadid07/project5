@@ -198,6 +198,7 @@ input{width:400px;height: 60px;border-radius: 5px;outline: none;border:solid gra
 .footer1{width: 100vw;;background-color: rgb(112, 107, 107);padding: 50px;display: flex;align-items: center;justify-content: center;}
 .footer-p2{color: white;width: 400px;}
 @media screen and (width<600px) {
+  .logo-a{margin-bottom:10px ;}
   .nav {
     justify-content: space-evenly;
   }
